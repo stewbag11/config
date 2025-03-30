@@ -1,7 +1,0 @@
-2025/02/12-02:06:10.253 8e9e Reusing MANIFEST /home/spencer/.config/chromium/Default/IndexedDB/https_www.bhphotovideo.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/02/12-02:06:10.253 8e9e Recovering log #4
-2025/02/12-02:06:10.253 8e9e Reusing old log /home/spencer/.config/chromium/Default/IndexedDB/https_www.bhphotovideo.com_0.indexeddb.leveldb/000004.log 
-2025/02/12-02:06:11.151 8e9e Level-0 table #8: started
-2025/02/12-02:06:11.151 8e9e Level-0 table #8: 11991 bytes OK
-2025/02/12-02:06:11.152 8e9e Delete type=0 #4
-2025/02/12-02:06:11.152 8e9e Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
