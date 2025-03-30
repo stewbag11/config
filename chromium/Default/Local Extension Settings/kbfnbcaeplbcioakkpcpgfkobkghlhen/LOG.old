@@ -1,0 +1,10 @@
+2025/03/20-15:54:38.802 c66 Reusing MANIFEST /home/spencer/.config/chromium/Default/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen/MANIFEST-000001
+2025/03/20-15:54:38.803 c66 Recovering log #16
+2025/03/20-15:54:38.807 c66 Reusing old log /home/spencer/.config/chromium/Default/Local Extension Settings/kbfnbcaeplbcioakkpcpgfkobkghlhen/000016.log 
+2025/03/20-23:51:57.233 c65 Level-0 table #21: started
+2025/03/20-23:51:57.238 c65 Level-0 table #21: 661036 bytes OK
+2025/03/20-23:51:57.239 c65 Delete type=0 #16
+2025/03/20-23:53:29.553 c65 Compacting 1@0 + 1@1 files
+2025/03/20-23:53:29.555 c65 Generated table #22@0: 27 keys, 26488 bytes
+2025/03/20-23:53:29.555 c65 Compacted 1@0 + 1@1 files => 26488 bytes
+2025/03/20-23:53:29.555 c65 compacted to: files[ 0 1 0 0 0 0 0 ]

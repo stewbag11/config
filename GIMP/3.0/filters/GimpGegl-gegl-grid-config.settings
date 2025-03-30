@@ -1,0 +1,34 @@
+# settings
+
+(GimpGegl-gegl-grid-config "2025-03-17 21:33:09"
+    (time 1742268789)
+    (x 6)
+    (y 6)
+    (x-offset 0)
+    (y-offset 0)
+    (line-width 4)
+    (line-height 4)
+    (line-color
+        (color "R'G'B'A double" 32 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\360\77" 0)))
+(GimpGegl-gegl-grid-config "2025-03-17 21:32:56"
+    (time 1742268776)
+    (x 32)
+    (y 32)
+    (x-offset 0)
+    (y-offset 0)
+    (line-width 4)
+    (line-height 4)
+    (line-color
+        (color "R'G'B'A double" 32 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\360\77" 0)))
+(GimpGegl-gegl-grid-config "2025-03-17 21:32:52"
+    (time 1742268772)
+    (x 32)
+    (y 32)
+    (x-offset 0)
+    (y-offset 0)
+    (line-width 4)
+    (line-height 4)
+    (line-color
+        (color "R'G'B'A double" 32 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\360\77" 0)))
+
+# end of settings

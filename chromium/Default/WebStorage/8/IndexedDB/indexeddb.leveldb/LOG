@@ -1,0 +1,28 @@
+2025/02/20-23:31:14.366 e2510 Reusing MANIFEST /home/spencer/.config/chromium/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/02/20-23:31:14.366 e2510 Recovering log #270
+2025/02/20-23:31:14.366 e2510 Reusing old log /home/spencer/.config/chromium/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/000270.log 
+2025/02/20-23:31:14.384 e2512 Level-0 table #276: started
+2025/02/20-23:31:14.384 e2512 Level-0 table #276: 912 bytes OK
+2025/02/20-23:31:14.385 e2512 Delete type=0 #270
+2025/02/20-23:31:14.385 e250f Manual compaction at level-0 from '\x00N\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00O\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/20-23:32:05.094 e2512 Level-0 table #278: started
+2025/02/20-23:32:05.095 e2512 Level-0 table #278: 5660 bytes OK
+2025/02/20-23:32:05.096 e2512 Delete type=0 #275
+2025/02/20-23:32:05.096 e250f Manual compaction at level-0 from '\x00O\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00P\x00\x00\x00' @ 0 : 0; will stop at '\x00O\x00\x00\x05' @ 5116 : 1
+2025/02/20-23:32:05.096 e250f Compacting 1@0 + 1@1 files
+2025/02/20-23:32:05.097 e250f Generated table #279@0: 32 keys, 2454 bytes
+2025/02/20-23:32:05.097 e250f Compacted 1@0 + 1@1 files => 2454 bytes
+2025/02/20-23:32:05.097 e250f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/20-23:32:05.097 e250f Delete type=2 #278
+2025/02/20-23:32:05.098 e250f Manual compaction at level-0 from '\x00O\x00\x00\x05' @ 5116 : 1 .. '\x00P\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/20-23:56:19.992 e250f Level-0 table #281: started
+2025/02/20-23:56:19.992 e250f Level-0 table #281: 5664 bytes OK
+2025/02/20-23:56:19.993 e250f Delete type=0 #277
+2025/02/20-23:56:19.993 e250f Delete type=2 #276
+2025/02/20-23:56:19.994 e250f Manual compaction at level-0 from '\x00P\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00Q\x00\x00\x00' @ 0 : 0; will stop at '\x00P\x00\x00\x05' @ 5173 : 1
+2025/02/20-23:56:19.994 e250f Compacting 1@0 + 1@1 files
+2025/02/20-23:56:19.995 e250f Generated table #282@0: 48 keys, 2619 bytes
+2025/02/20-23:56:19.995 e250f Compacted 1@0 + 1@1 files => 2619 bytes
+2025/02/20-23:56:19.995 e250f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/20-23:56:19.995 e250f Delete type=2 #281
+2025/02/20-23:56:19.996 e250f Manual compaction at level-0 from '\x00P\x00\x00\x05' @ 5173 : 1 .. '\x00Q\x00\x00\x00' @ 0 : 0; will stop at (end)

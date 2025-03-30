@@ -1,0 +1,7 @@
+2025/02/01-12:11:49.930 35ee Reusing MANIFEST /home/spencer/.config/chromium/Default/WebStorage/65/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/02/01-12:11:49.930 35ee Recovering log #3
+2025/02/01-12:11:49.932 35ee Reusing old log /home/spencer/.config/chromium/Default/WebStorage/65/IndexedDB/indexeddb.leveldb/000003.log 
+2025/02/01-12:55:07.310 35ef Level-0 table #5: started
+2025/02/01-12:55:07.314 35ef Level-0 table #5: 376652 bytes OK
+2025/02/01-12:55:07.315 35ef Delete type=0 #3
+2025/02/01-12:55:07.315 35ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)

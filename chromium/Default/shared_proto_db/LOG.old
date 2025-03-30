@@ -1,0 +1,6 @@
+2025/03/20-15:54:38.435 c72 Reusing MANIFEST /home/spencer/.config/chromium/Default/shared_proto_db/MANIFEST-000001
+2025/03/20-15:54:38.435 c72 Recovering log #3
+2025/03/20-15:54:38.438 c72 Reusing old log /home/spencer/.config/chromium/Default/shared_proto_db/000003.log 
+2025/03/20-16:06:40.268 c65 Level-0 table #5: started
+2025/03/20-16:06:40.269 c65 Level-0 table #5: 104038 bytes OK
+2025/03/20-16:06:40.270 c65 Delete type=0 #3

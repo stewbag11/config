@@ -1,0 +1,6 @@
+2025/02/12-02:05:38.325 8e9e Creating DB /home/spencer/.config/chromium/Default/IndexedDB/https_www.bhphotovideo.com_0.indexeddb.leveldb since it was missing.
+2025/02/12-02:05:38.326 8e9e Reusing MANIFEST /home/spencer/.config/chromium/Default/IndexedDB/https_www.bhphotovideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/12-02:05:39.024 8e9e Level-0 table #5: started
+2025/02/12-02:05:39.025 8e9e Level-0 table #5: 7785 bytes OK
+2025/02/12-02:05:39.026 8e9e Delete type=0 #3
+2025/02/12-02:05:39.026 8e9e Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

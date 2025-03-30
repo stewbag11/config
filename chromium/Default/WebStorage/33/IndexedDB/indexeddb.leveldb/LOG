@@ -1,0 +1,6 @@
+2025/01/18-13:26:46.583 30474 Creating DB /home/spencer/.config/chromium/Default/WebStorage/33/IndexedDB/indexeddb.leveldb since it was missing.
+2025/01/18-13:26:46.585 30474 Reusing MANIFEST /home/spencer/.config/chromium/Default/WebStorage/33/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/01/18-13:27:09.407 30474 Level-0 table #5: started
+2025/01/18-13:27:09.407 30474 Level-0 table #5: 17498 bytes OK
+2025/01/18-13:27:09.408 30474 Delete type=0 #3
+2025/01/18-13:27:09.408 30474 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

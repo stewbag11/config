@@ -1,0 +1,25 @@
+2025/01/21-12:08:54.488 1b848 Reusing MANIFEST /home/spencer/.config/chromium/Default/IndexedDB/https_calendar.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/21-12:08:54.488 1b848 Recovering log #61
+2025/01/21-12:08:54.488 1b848 Reusing old log /home/spencer/.config/chromium/Default/IndexedDB/https_calendar.proton.me_0.indexeddb.leveldb/000061.log 
+2025/01/21-12:08:54.488 1b848 Delete type=2 #60
+2025/01/21-12:08:54.508 1b848 Level-0 table #66: started
+2025/01/21-12:08:54.509 1b848 Level-0 table #66: 745 bytes OK
+2025/01/21-12:08:54.509 1b848 Delete type=0 #61
+2025/01/21-12:08:54.509 1b848 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 464 : 1
+2025/01/21-12:08:54.509 1b848 Compacting 1@0 + 1@1 files
+2025/01/21-12:08:54.510 1b848 Generated table #67@0: 39 keys, 864 bytes
+2025/01/21-12:08:54.510 1b848 Compacted 1@0 + 1@1 files => 864 bytes
+2025/01/21-12:08:54.511 1b848 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/21-12:08:54.511 1b848 Delete type=2 #66
+2025/01/21-12:08:54.511 1b848 Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 464 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/01/21-12:08:54.511 1b848 Level-0 table #69: started
+2025/01/21-12:08:54.511 1b848 Level-0 table #69: 751 bytes OK
+2025/01/21-12:08:54.512 1b848 Delete type=0 #65
+2025/01/21-12:08:54.512 1b848 Delete type=2 #63
+2025/01/21-12:08:54.512 1b848 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 491 : 0
+2025/01/21-12:08:54.512 1b848 Compacting 1@0 + 1@1 files
+2025/01/21-12:08:54.513 1b848 Generated table #70@0: 41 keys, 878 bytes
+2025/01/21-12:08:54.513 1b848 Compacted 1@0 + 1@1 files => 878 bytes
+2025/01/21-12:08:54.513 1b848 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/21-12:08:54.514 1b848 Delete type=2 #69
+2025/01/21-12:08:54.514 1b848 Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 491 : 0 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)

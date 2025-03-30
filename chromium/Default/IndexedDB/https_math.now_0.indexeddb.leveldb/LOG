@@ -1,0 +1,5 @@
+2025/03/20-22:52:30.194 c64 Creating DB /home/spencer/.config/chromium/Default/IndexedDB/https_math.now_0.indexeddb.leveldb since it was missing.
+2025/03/20-22:52:30.196 c64 Reusing MANIFEST /home/spencer/.config/chromium/Default/IndexedDB/https_math.now_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/20-22:52:57.370 c66 Level-0 table #5: started
+2025/03/20-22:52:57.380 c66 Level-0 table #5: 1176113 bytes OK
+2025/03/20-22:52:57.381 c66 Delete type=0 #3

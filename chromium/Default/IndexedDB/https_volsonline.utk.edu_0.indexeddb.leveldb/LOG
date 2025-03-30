@@ -1,0 +1,6 @@
+2025/01/21-19:04:16.293 1b848 Creating DB /home/spencer/.config/chromium/Default/IndexedDB/https_volsonline.utk.edu_0.indexeddb.leveldb since it was missing.
+2025/01/21-19:04:16.294 1b848 Reusing MANIFEST /home/spencer/.config/chromium/Default/IndexedDB/https_volsonline.utk.edu_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/21-19:04:42.089 1b849 Level-0 table #5: started
+2025/01/21-19:04:42.089 1b849 Level-0 table #5: 867 bytes OK
+2025/01/21-19:04:42.090 1b849 Delete type=0 #3
+2025/01/21-19:04:42.090 1b849 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

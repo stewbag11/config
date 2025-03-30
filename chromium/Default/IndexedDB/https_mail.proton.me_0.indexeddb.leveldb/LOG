@@ -1,0 +1,46 @@
+2025/03/20-18:40:24.650 c65 Reusing MANIFEST /home/spencer/.config/chromium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/20-18:40:24.650 c65 Recovering log #89
+2025/03/20-18:40:24.650 c65 Reusing old log /home/spencer/.config/chromium/Default/IndexedDB/https_mail.proton.me_0.indexeddb.leveldb/000089.log 
+2025/03/20-18:40:27.309 c72 Level-0 table #94: started
+2025/03/20-18:40:27.310 c72 Level-0 table #94: 2602 bytes OK
+2025/03/20-18:40:27.311 c72 Delete type=0 #89
+2025/03/20-18:40:27.311 c64 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x00\x00\x05' @ 792 : 1
+2025/03/20-18:40:27.311 c64 Compacting 1@0 + 1@1 files
+2025/03/20-18:40:27.312 c64 Generated table #95@0: 83 keys, 1393 bytes
+2025/03/20-18:40:27.312 c64 Compacted 1@0 + 1@1 files => 1393 bytes
+2025/03/20-18:40:27.312 c64 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/20-18:40:27.312 c64 Delete type=2 #94
+2025/03/20-18:40:27.312 c64 Manual compaction at level-0 from '\x00\x1f\x00\x00\x05' @ 792 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/20-18:40:27.468 c66 Level-0 table #97: started
+2025/03/20-18:40:27.470 c66 Level-0 table #97: 868 bytes OK
+2025/03/20-18:40:27.471 c66 Delete type=2 #91
+2025/03/20-18:40:27.471 c66 Delete type=0 #93
+2025/03/20-18:40:27.471 c6d Manual compaction at level-0 from '\x00 \x00\x00\x00' @ 72057594037927935 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at '\x00!\x00\x00\x05' @ 815 : 1
+2025/03/20-18:40:27.471 c6d Compacting 1@0 + 1@1 files
+2025/03/20-18:40:27.472 c6d Generated table #98@0: 85 keys, 1415 bytes
+2025/03/20-18:40:27.472 c6d Compacted 1@0 + 1@1 files => 1415 bytes
+2025/03/20-18:40:27.473 c6d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/20-18:40:27.473 c6d Delete type=2 #97
+2025/03/20-18:40:27.473 c64 Manual compaction at level-0 from '\x00!\x00\x00\x05' @ 815 : 1 .. '\x00!\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/20-18:40:27.473 c64 Level-0 table #100: started
+2025/03/20-18:40:27.474 c64 Level-0 table #100: 687 bytes OK
+2025/03/20-18:40:27.475 c64 Delete type=0 #96
+2025/03/20-18:40:27.475 c64 Delete type=2 #95
+2025/03/20-18:40:27.475 c64 Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at '\x00"\x00\x00\x05' @ 833 : 1
+2025/03/20-18:40:27.475 c64 Compacting 1@0 + 1@1 files
+2025/03/20-18:40:27.476 c64 Generated table #101@0: 85 keys, 1409 bytes
+2025/03/20-18:40:27.476 c64 Compacted 1@0 + 1@1 files => 1409 bytes
+2025/03/20-18:40:27.476 c64 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/20-18:40:27.477 c64 Delete type=2 #100
+2025/03/20-18:40:27.477 c64 Manual compaction at level-0 from '\x00"\x00\x00\x05' @ 833 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/03/20-18:40:27.713 c65 Level-0 table #103: started
+2025/03/20-18:40:27.714 c65 Level-0 table #103: 761 bytes OK
+2025/03/20-18:40:27.714 c65 Delete type=2 #98
+2025/03/20-18:40:27.714 c65 Delete type=0 #99
+2025/03/20-18:40:27.715 c65 Manual compaction at level-0 from '\x00"\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at '\x00"\x00\x00\x05' @ 862 : 0
+2025/03/20-18:40:27.715 c65 Compacting 1@0 + 1@1 files
+2025/03/20-18:40:27.715 c65 Generated table #104@0: 83 keys, 1393 bytes
+2025/03/20-18:40:27.715 c65 Compacted 1@0 + 1@1 files => 1393 bytes
+2025/03/20-18:40:27.716 c65 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/20-18:40:27.716 c65 Delete type=2 #103
+2025/03/20-18:40:27.716 c65 Manual compaction at level-0 from '\x00"\x00\x00\x05' @ 862 : 0 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at (end)

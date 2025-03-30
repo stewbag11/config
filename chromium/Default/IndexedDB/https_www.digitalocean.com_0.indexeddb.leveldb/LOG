@@ -1,0 +1,6 @@
+2025/01/21-15:40:09.553 1b848 Creating DB /home/spencer/.config/chromium/Default/IndexedDB/https_www.digitalocean.com_0.indexeddb.leveldb since it was missing.
+2025/01/21-15:40:09.554 1b848 Reusing MANIFEST /home/spencer/.config/chromium/Default/IndexedDB/https_www.digitalocean.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/21-15:40:09.561 1b851 Level-0 table #5: started
+2025/01/21-15:40:09.562 1b851 Level-0 table #5: 1672 bytes OK
+2025/01/21-15:40:09.563 1b851 Delete type=0 #3
+2025/01/21-15:40:09.563 1b848 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
