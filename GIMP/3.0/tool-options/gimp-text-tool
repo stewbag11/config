@@ -3,7 +3,7 @@
 (foreground
     (color "R'G'B'A double" 32 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\360\77" 0))
 (palette "Color History")
-(font "IBM Plex Mono Bold")
-(font-size 20)
+(font "IBM Plex Mono Regular")
+(font-size 46)
 
 # end of gimp-text-tool options
