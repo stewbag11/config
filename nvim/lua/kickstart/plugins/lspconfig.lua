@@ -212,10 +212,9 @@ return {
         'html',          -- HTML
         'tailwindcss',   -- CSS
         'eslint',        -- JavaScript
-        'jdtls',         -- Java
-        'lemminx',       -- XML
         'rust_analyzer', -- Rust
         'taplo',         -- TOML
+        'gopls',         -- Go
 
       })
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }
