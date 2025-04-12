@@ -207,14 +207,14 @@ return {
       -- for you, so that they are available from within Neovim.
       local ensure_installed = vim.tbl_keys(servers or {})
       vim.list_extend(ensure_installed, {
-        'marksman',      -- Markdown
-        'bashls',        -- Bash
-        'html',          -- HTML
-        'tailwindcss',   -- CSS
-        'eslint',        -- JavaScript
-        'rust_analyzer', -- Rust
-        'taplo',         -- TOML
-        'gopls',         -- Go
+        'marksman',    -- Markdown
+        'bashls',      -- Bash
+        'lemminx',     -- XML
+        'taplo',       -- TOML
+        'html',        -- HTML
+        'tailwindcss', -- CSS
+        'eslint',      -- JavaScript
+        'jdtls',       -- Java
 
       })
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }
