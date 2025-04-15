@@ -213,8 +213,8 @@ return {
         'taplo',       -- TOML
         'html',        -- HTML
         'tailwindcss', -- CSS
-        'eslint',      -- JavaScript
-        'jdtls',       -- Java
+        'gopls',       -- Go
+
 
       })
       require('mason-tool-installer').setup { ensure_installed = ensure_installed }

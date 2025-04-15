@@ -40,7 +40,10 @@ bindsym $mod+a exec kitty -e 'pulsemixer'
 bindsym Print exec flameshot gui
 
 # firefox
-bindsym $mod+b exec firefox
+bindsym $mod+w exec firefox
+
+# readest
+bindsym $mod+b exec readest
 
 # steam
 bindsym $mod+g exec steam

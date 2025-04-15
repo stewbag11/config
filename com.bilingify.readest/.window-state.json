@@ -1,0 +1,26 @@
+{
+  "updater": {
+    "width": 956,
+    "height": 1050,
+    "x": 2880,
+    "y": 24,
+    "prev_x": 2880,
+    "prev_y": 24,
+    "maximized": false,
+    "visible": true,
+    "decorated": true,
+    "fullscreen": false
+  },
+  "main": {
+    "width": 960,
+    "height": 1056,
+    "x": 2880,
+    "y": 24,
+    "prev_x": 2880,
+    "prev_y": 24,
+    "maximized": false,
+    "visible": true,
+    "decorated": false,
+    "fullscreen": false
+  }
+}
