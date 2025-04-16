@@ -78,15 +78,15 @@
                     (show-button-bar "true"))))))
 (session-info "toplevel"
     (factory-entry "gimp-file-open-dialog")
-    (position 434 0)
+    (position 396 0)
     (size 1458 1041))
 (session-info "toplevel"
     (factory-entry "gimp-file-save-dialog")
-    (position 1070 0)
+    (position 1068 0)
     (size 840 830))
 (session-info "toplevel"
     (factory-entry "gimp-file-export-dialog")
-    (position 1048 0)
+    (position 1004 0)
     (size 840 825))
 (session-info "toplevel"
     (factory-entry "gimp-image-new-dialog")
