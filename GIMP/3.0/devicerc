@@ -3,20 +3,16 @@
 (GimpDeviceInfo "Virtual core pointer"
     (icon-name "gimp-cursor")
     (name "Virtual core pointer")
-    (tool-options "GimpCropOptions"
-        (tool "gimp-crop-tool")
-        (foreground
-            (color "R'G'B'A double" 32 "\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\360\77" 0))
-        (background
-            (color "R'G'B'A double" 32 "\0\0\0\0\340\321\341\77\0\0\0\100\42\30\350\77\0\0\0\0\267\237\337\77\0\0\0\0\0\0\360\77" 0))
-        (pattern "Pine"))
-    (use-fg-bg yes)
+    (tool-options "GimpRectangleSelectOptions"
+        (fixed-rule-active yes)
+        (tool "gimp-ellipse-select-tool"))
+    (use-fg-bg no)
     (use-opacity-paint-mode no)
     (use-brush no)
     (use-dynamics no)
     (use-mypaint-brush no)
     (use-gradient no)
-    (use-pattern yes)
+    (use-pattern no)
     (use-palette no)
     (use-font no)
     (mode screen)
