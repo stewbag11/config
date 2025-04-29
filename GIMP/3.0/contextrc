@@ -1,11 +1,11 @@
 # GIMP user context
 
-(tool "gimp-ellipse-select-tool")
+(tool "gimp-paintbrush-tool")
 (paint-info "gimp-paintbrush")
 (foreground
     (color "R'G'B'A double" 32 "\0\0\0\0\0\0\360\77\0\0\0\0\0\0\360\77\0\0\0\0\0\0\360\77\0\0\0\0\0\0\360\77" 0))
 (background
-    (color "R'G'B'A double" 32 "\0\0\0\100\341\321\341\77\0\0\0\100\42\30\350\77\0\0\0\0\267\237\337\77\0\0\0\0\0\0\360\77" 0))
+    (color "R'G'B'A double" 32 "\0\0\0\40\345\321\341\77\0\0\0\100\42\30\350\77\0\0\0\0\267\237\337\77\0\0\0\0\0\0\360\77" 0))
 (brush "2. Hardness 050")
 (dynamics "Pressure Size")
 (mybrush "100% Opaque")
